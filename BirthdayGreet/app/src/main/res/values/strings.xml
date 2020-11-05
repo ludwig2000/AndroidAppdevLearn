@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BirthdayGreet</string>
+    <string name="button">Button</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="name">Name</string>
+    <string name="create_the_card">Create the card</string>
+    <string name="hintval">Ritwik</string>
+</resources>
